@@ -1,2 +1,2 @@
 # java_web
-direction
+a beginner XD
